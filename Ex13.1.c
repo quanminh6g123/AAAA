@@ -4,6 +4,7 @@
 
 int checkspace(char str[])
 {
+    int b;
     int i=0,count=0;
     while (str[i]!='\0')
     {
